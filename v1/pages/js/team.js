@@ -1,6 +1,6 @@
 var lang = "zh";
-var loadPath_zh = "/v1/locales/zh/zh-team.json";
-var loadPath_en = "/v1/locales/en/en-team.json";
+var loadPath_zh = "/locales/zh/zh-team.json";
+var loadPath_en = "/locales/en/en-team.json";
 $(function() {
     $("#choose_lang a").click(function(e) {
         e.preventDefault();
