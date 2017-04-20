@@ -1,3 +1,13 @@
 {
-    "title": "Irish immigrants"
+    "title": "Irish immigrants",
+    "navbar":{
+        "about":"About us",
+        "solutions":"Solutions",
+        "ireland":"Ireland",
+        "portugal":"Portugal",
+        "cyprus":"Cyprus",
+        "team":"Team",
+        "recommend":"Recommend",
+        "contact":"Contact"
+    }
 }
