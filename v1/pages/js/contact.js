@@ -43,11 +43,11 @@ $(function() {
 var company = "";
 var map_address = "";
 switch (lang) {
-    case "en":
+    case "zh":
         company = "我们公司";
         map_address = "香港中环荆威广场17楼";
         break;
-    case "zh":
+    case "en":
         company = "my company";
         map_address = "17/F, Silver Fortune Plaza, No.1 Wellington Street, Central";
         break;
