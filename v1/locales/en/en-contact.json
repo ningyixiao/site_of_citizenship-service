@@ -9,5 +9,13 @@
         "team":"Team",
         "recommend":"Recommend",
         "contact":"Contact"
+    },
+    "main":{
+        "contact_us":"Contact us",
+        "address":"17/F, Silver Fortune Plaza, No.1 Wellington Street, Central"
+    },
+    "footer":{
+        "contact":"Contact us",
+        "address":"17/F, Silver Fortune Plaza, No.1 Wellington Street, Central"
     }
 }

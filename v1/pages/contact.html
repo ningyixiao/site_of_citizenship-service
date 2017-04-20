@@ -61,9 +61,9 @@
     </nav>
     <!--/.Navbar-->
     <!--Main layout-->
-    <div class="container main">
+    <div id="main" class="container main">
         <div class="divider-new">
-            <h2 class="h2-responsive wow fadeIn">联系我们</h2>
+            <h2 data-i18n="main.contact_us" class="h2-responsive wow fadeIn">联系我们</h2>
         </div>
         <!--Section: Contact-->
         <section id="contact">
@@ -77,13 +77,13 @@
                 <div class="addition-margin col-md-4">
                     <ul class="text-center">
                         <li class="wow fadeIn" data-wow-delay="0.2s"><i class="fa fa-map-marker teal-text"></i>
-                            <p>浙江省杭州市西湖区留和路288号浙江工业大学</p>
+                            <p data-i18n="main.address">香港中环荆威广场17楼</p>
                         </li>
                         <li class="wow fadeIn" data-wow-delay="0.3s"><i class="fa fa-phone teal-text"></i>
-                            <p>+86 18868832059</p>
+                            <p>+852 58088959</p>
                         </li>
                         <li class="wow fadeIn" data-wow-delay="0.4s"><i class="fa fa-envelope teal-text"></i>
-                            <p>zjutsgg@gmail.com</p>
+                            <p>derek@ctravelgroup.com</p>
                         </li>
                     </ul>
                 </div>
@@ -94,14 +94,14 @@
     </div>
     <!--/.Main layout-->
     <!--Footer-->
-    <footer class="page-footer center-on-small-only">
+    <footer id="footer" class="page-footer center-on-small-only">
         <!--Footer Links-->
         <div class="container-fluid">
             <div class="row">
                 <!--First column-->
                 <div class="col-md-3 offset-lg-1 hidden-lg-down">
-                    <h5 class="title">联系方式</h5>
-                    <p>浙江省杭州市西湖区留和路288号</p>
+                    <h5 data-i18n="footer.contact" class="title">联系方式</h5>
+                    <p data-i18n="footer.address">浙江省杭州市西湖区留和路288号</p>
                 </div>
                 <!--/.First column-->
                 <hr class="hidden-md-up">
@@ -161,18 +161,18 @@
     <script type="text/javascript">
     // 百度地图API功能
     var map = new BMap.Map("map-container");
-    var point = new BMap.Point(120.043334, 30.230949);
+    var point = new BMap.Point(114.167791,22.284156);
     var marker = new BMap.Marker(point); // 创建标注
     map.addOverlay(marker); // 将标注添加到地图中
     map.centerAndZoom(point, 15); //15指地图的缩放程度
     var opts = {
         width: 200, // 信息窗口宽度
         height: 100, // 信息窗口高度
-        title: "浙江工业大学屏峰校区", // 信息窗口标题
+        title: company, // 信息窗口标题
         enableMessage: true, //设置允许信息窗发送短息
         message: ""
     }
-    var infoWindow = new BMap.InfoWindow("地址：浙江省杭州市西湖区留和路288号", opts); // 创建信息窗口对象 
+    var infoWindow = new BMap.InfoWindow(map_address, opts); // 创建信息窗口对象 
     marker.addEventListener("click", function() {
         map.openInfoWindow(infoWindow, point); //开启信息窗口
     });

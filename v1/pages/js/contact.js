@@ -33,7 +33,25 @@ $(function() {
                 // https://github.com/i18next/jquery-i18next#usage-of-selector-function
                 $('title').localize();
                 $('#navbar').localize();
+                $('#main').localize();
+                $('#footer').localize();
             });
         }
     });
 });
+// 提供给百度地图api的变量
+var company = "";
+var map_address = "";
+switch (lang) {
+    case "en":
+        company = "我们公司";
+        map_address = "香港中环荆威广场17楼";
+        break;
+    case "zh":
+        company = "my company";
+        map_address = "17/F, Silver Fortune Plaza, No.1 Wellington Street, Central";
+        break;
+    default:
+        company = "我们公司";
+        map_address = "香港中环荆威广场17楼";
+}

@@ -1,3 +1,21 @@
 {
-    "title": "爱尔兰移民"
+    "title": "爱尔兰移民",
+    "navbar": {
+        "about": "关于我们",
+        "solutions": "产品方案",
+        "ireland": "爱尔兰",
+        "portugal": "葡萄牙",
+        "cyprus": "塞浦路斯",
+        "team": "团队简介",
+        "recommend": "外部推荐",
+        "contact": "联系方式"
+    },
+    "main": {
+        "contact_us": "联系我们",
+        "address":"香港中环荆威广场17楼"
+    },
+    "footer":{
+        "contact":"联系方式",
+        "address":"香港中环荆威广场17楼"
+    }
 }
