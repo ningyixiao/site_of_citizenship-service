@@ -1,7 +1,7 @@
 var lang = "zh";
 var loadPath_zh = "/locales/zh/zh-contact.json";
 var loadPath_en = "/locales/en/en-contact.json";
-// 提供给百度地图api的变量，需要先初始化
+// 提供给百度地图api的变量
 var company = "我们公司";
 var map_address = "香港中环荆威广场17楼";
 
@@ -37,22 +37,15 @@ $(function() {
                 case "en":
                     load_path = loadPath_en;
                     lang = "en";
-                    company = "my company";
-                    map_address = "17/F, Silver Fortune Plaza, No.1 Wellington Street, Central";
                     break;
                 case "zh":
                     load_path = loadPath_zh;
                     lang = "zh";
-                    company = "我们公司";
-                    map_address = "香港中环荆威广场17楼";
                     break;
                 default:
                     load_path = loadPath_zh;
                     lang = "zh";
-                    company = "我们公司";
-                    map_address = "香港中环荆威广场17楼";
             }
-            callBaiduMapApi(company,map_address);
             // console.log(load_path)
             i18next.use(i18nextXHRBackend).init({
                 backend: {
