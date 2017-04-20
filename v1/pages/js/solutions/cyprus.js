@@ -1,6 +1,6 @@
 var lang = "zh";
-var loadPath_zh = "/locales/zh/zh-index.json";
-var loadPath_en = "/locales/en/en-index.json";
+var loadPath_zh = "/locales/zh/solutions/zh-cyprus.json";
+var loadPath_en = "/locales/en/solutions/en-cyprus.json";
 $(function() {
     $("#choose_lang a").click(function(e) {
         e.preventDefault();
