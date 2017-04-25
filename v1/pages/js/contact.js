@@ -3,7 +3,6 @@ var loadPath_zh = "/locales/zh/zh-contact.json";
 var loadPath_en = "/locales/en/en-contact.json";
 
 $(function() {
-    callBaiduMapApi(company,map_address);
     $("#choose_lang a").click(function(e) {
         e.preventDefault();
         var choose_lang = $(e.target).attr("href");
