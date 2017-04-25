@@ -11,8 +11,7 @@
         "contact": "联系方式"
     },
     "main": {
-        "contact_us": "联系我们",
-        "address":"香港中环荆威广场17楼"
+        "contact_us": "联系我们"  
     },
     "footer":{
         "contact":"联系方式",

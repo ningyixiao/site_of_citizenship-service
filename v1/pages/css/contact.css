@@ -36,8 +36,14 @@ footer.page-footer {
     padding-bottom: 2rem;
 }
 
-
 /* /.common part */
+#contact>.row{
+    margin-top: 2rem;
+}
+
+#contact .card_title_color{
+    color: #a00c18;
+}
 
 #contact .fa {
     font-size: 2.5rem;
