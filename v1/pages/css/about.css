@@ -67,3 +67,19 @@ footer.page-footer {
         font-size: 1.3rem;
     }
 }
+.img-wrap{
+    margin-top: 1rem;
+    border: 1px solid #eee;
+}
+.pro_partners{
+    margin-top: 2rem;
+}
+.pro_partners .img-wrap{
+    padding: 1rem 0;
+}
+.pro_partners .img-wrap.warren{
+    background-color: #EDEEE6; 
+}
+
+
+
