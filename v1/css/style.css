@@ -8,15 +8,20 @@ body,
 
 
 /* Navigation */
+
+
 /* common part */
+
 .navbar {
     background-color: transparent;
 }
+
 @media only screen and (max-width: 768px) {
     .navbar {
         background-color: #3b3b3f;
     }
 }
+
 .scrolling-navbar {
     -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out, padding .5s ease-in-out;
@@ -26,33 +31,60 @@ body,
 .top-nav-collapse {
     background-color: #3b3b3f;
 }
-li.nav-item{
+
+li.nav-item {
     margin-left: 1rem;
     margin-right: 1rem;
 }
+
 footer.page-footer {
     background-color: #3b3b3f;
     margin-top: 2rem;
 }
+
 .main {
     padding-top: 3rem;
     padding-bottom: 2rem;
 }
+
+
 /* /.common part */
 
-.section_wrap{
+.section_wrap {
     margin-top: 1rem;
 }
-.section_wrap.advantage{
-    margin-top: 4rem;
-}
+
 .section_title {
     margin-bottom: 3rem;
     text-align: center;
 }
-.section_title h2{
+
+.section_title h2 {
     font-weight: 400;
 }
+
+.section_wrap.advantage {
+    margin-top: 4rem;
+}
+
+.section_wrap.activity {
+    margin-top: 4rem;
+}
+
+.section_wrap.friend_link {
+    margin-top: 4rem;
+}
+
+.section_wrap.friend_link .section_title {
+    margin-bottom: 1rem;
+}
+
+.section_wrap.friend_link .img-wrap {
+    display: block;
+    margin-top: 1rem;
+    border: 1px solid #eee;
+}
+
 
 /* Carousel*/
 

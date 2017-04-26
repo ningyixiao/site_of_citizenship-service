@@ -58,16 +58,15 @@ footer.page-footer {
 
 .img-wrap {
     display: block;
-    margin-top: 1rem;
     overflow: hidden;
     position: relative;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 1rem;
 }
 
 @media screen and (min-width: 768px) {
     p.text-fluid {
         font-size: 1.3rem;
-    }
-    .no-margin-top {
-        margin-top: 0;
     }
 }
