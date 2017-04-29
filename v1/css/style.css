@@ -66,11 +66,15 @@ footer.page-footer {
 .section_wrap.advantage {
     margin-top: 4rem;
 }
-
+.advantage .adjust_lineHei{
+    line-height: 2.75;
+}
 .section_wrap.activity {
     margin-top: 4rem;
 }
-
+.activity .row .item{
+    margin-bottom: 1rem;
+}
 .section_wrap.friend_link {
     margin-top: 4rem;
 }
