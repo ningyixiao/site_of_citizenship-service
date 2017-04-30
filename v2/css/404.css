@@ -1,0 +1,48 @@
+/* YOUR CUSTOM STYLES */
+
+html,
+body,
+.view {
+    height: 100%;
+}
+
+
+/* Navigation */
+
+
+/* common part */
+
+.navbar {
+    background-color: #3b3b3f;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #3b3b3f;
+    }
+}
+
+.top-nav-collapse {
+    background-color: #3b3b3f;
+}
+
+li.nav-item {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+footer.page-footer {
+    background-color: #3b3b3f;
+    margin-top: 2rem;
+}
+
+.main {
+    padding-top: 10rem;
+}
+
+/* /.common part */
+
+.main h2, .main p{
+    margin: 0 auto 1rem;
+    text-align: center;
+}
