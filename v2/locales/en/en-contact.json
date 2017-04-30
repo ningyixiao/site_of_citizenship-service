@@ -1,0 +1,20 @@
+{
+    "title": "Irish immigrants",
+    "navbar":{
+        "about":"About us",
+        "solutions":"Solutions",
+        "ireland":"Ireland",
+        "portugal":"Portugal",
+        "cyprus":"Cyprus",
+        "team":"Team",
+        "recommend":"Recommend",
+        "contact":"Contact"
+    },
+    "main":{
+        "contact_us":"Contact us"
+    },
+    "footer":{
+        "contact":"Contact us",
+        "address":"17/F, Silver Fortune Plaza, No.1 Wellington Street, Central"
+    }
+}
