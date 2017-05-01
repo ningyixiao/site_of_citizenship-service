@@ -1,3 +1,27 @@
 {
-    "title": "爱尔兰移民"
+    "title": "环球签 - 关于我们",
+    "navbar": {
+        "home":"首页",
+        "about": "关于我们",
+        "solutions": "产品方案",
+        "ireland": "爱尔兰",
+        "portugal": "葡萄牙",
+        "cyprus": "塞浦路斯",
+        "team": "团队简介",
+        "recommend": "外部推荐",
+        "contact": "联系方式"
+    },
+    "footer":{
+        "contact":"联系方式",
+        "address":"香港中环荆威广场17楼",
+        "navigation":"站内导航",
+        "about": "关于我们",
+        "solutions": "解决方案",
+        "ireland": "爱尔兰",
+        "portugal": "葡萄牙",
+        "cyprus": "塞浦路斯",
+        "team": "团队简介",
+        "recommend": "外部推荐",
+        "contact": "联系方式"
+    }
 }

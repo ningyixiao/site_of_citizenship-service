@@ -1,3 +1,27 @@
 {
-    "title": "Irish immigrants"
+    "title": "DKGlobalVisa - Cyprus",
+    "navbar":{
+        "home":"Home",
+        "about":"About us",
+        "solutions":"Solutions",
+        "ireland":"Ireland",
+        "portugal":"Portugal",
+        "cyprus":"Cyprus",
+        "team":"Team",
+        "recommend":"Recommend",
+        "contact":"Contact"
+    },
+    "footer":{
+        "contact":"Contact us",
+        "address":"17/F, Silver Fortune Plaza, No.1 Wellington Street, Central",
+        "navigation":"Navigation",
+        "about":"About us",
+        "solutions":"Solutions",
+        "ireland":"Ireland",
+        "portugal":"Portugal",
+        "cyprus":"Cyprus",
+        "team":"Team",
+        "recommend":"Recommend",
+        "contact":"Contact"
+    }
 }
