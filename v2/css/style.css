@@ -66,15 +66,19 @@ footer.page-footer {
 .section_wrap.advantage {
     margin-top: 4rem;
 }
-.advantage .adjust_lineHei{
+
+.advantage .adjust_lineHei {
     line-height: 2.75;
 }
+
 .section_wrap.activity {
     margin-top: 4rem;
 }
-.activity .row .item{
+
+.activity .row .item {
     margin-bottom: 1rem;
 }
+
 .section_wrap.friend_link {
     margin-top: 4rem;
 }
@@ -109,11 +113,32 @@ footer.page-footer {
     color: #fff;
 }
 
-@media (min-width: 776px) {
+@media screen and (min-width: 776px) {
     .carousel .view ul li {
         display: inline;
     }
     .carousel .view .full-bg-img ul li .flex-item {
         margin-bottom: 1.5rem;
+    }
+}
+
+
+/*style for logo*/
+
+.logo {
+    position: absolute;
+    top: -0.4rem;
+    left: 0;
+    height: 3.4rem;
+}
+
+@media screen and (max-width: 992px) {
+    .logo {
+        height: 2rem;
+        top: -0.3rem;
+    }
+    /*style for button.navbar-toggler-right*/
+    button.navbar-toggler-right {
+        margin-top: -0.3rem;
     }
 }

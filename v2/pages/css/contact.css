@@ -56,3 +56,21 @@ footer.page-footer {
         margin-top: 1rem;
     }
 }
+
+/*style for logo*/
+.logo{
+    position: absolute;
+    top: -0.4rem;
+    left: 0;
+    height:3.4rem;
+}
+@media screen and (max-width: 992px){
+    .logo{
+        height: 2rem;
+        top: -0.3rem;
+    }
+    /*style for button.navbar-toggler-right*/
+    button.navbar-toggler-right {
+        margin-top: -0.3rem;
+    }
+}

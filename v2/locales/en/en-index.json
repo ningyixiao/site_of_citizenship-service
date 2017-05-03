@@ -1,27 +1,115 @@
 {
     "title": "DKGlobalVisa",
-    "navbar":{
-        "home":"Home",
-        "about":"About us",
-        "solutions":"Solutions",
-        "ireland":"Ireland",
-        "portugal":"Portugal",
-        "cyprus":"Cyprus",
-        "team":"Team",
-        "recommend":"Recommend",
-        "contact":"Contact"
+    "navbar": {
+        "home": "Home",
+        "about": "About us",
+        "solutions": "Solutions",
+        "ireland": "Ireland",
+        "portugal": "Portugal",
+        "cyprus": "Cyprus",
+        "team": "Team",
+        "recommend": "Recommend",
+        "contact": "Contact"
     },
-    "footer":{
-        "contact":"Contact us",
-        "address":"17/F, Silver Fortune Plaza, No.1 Wellington Street, Central",
-        "navigation":"Navigation",
-        "about":"About us",
-        "solutions":"Solutions",
-        "ireland":"Ireland",
-        "portugal":"Portugal",
-        "cyprus":"Cyprus",
-        "team":"Team",
-        "recommend":"Recommend",
-        "contact":"Contact"
+    "footer": {
+        "contact": "Contact us",
+        "address": "17/F, Silver Fortune Plaza, No.1 Wellington Street, Central",
+        "navigation": "Navigation",
+        "about": "About us",
+        "solutions": "Solutions",
+        "ireland": "Ireland",
+        "portugal": "Portugal",
+        "cyprus": "Cyprus",
+        "team": "Team",
+        "recommend": "Recommend",
+        "contact": "Contact"
+    },
+    "banner": {
+        "one": {
+            "title": "Irish immigration",
+            "description": "Western European countries, and the British across the sea, has a long history, charming scenery.",
+            "detail_btn": "see details"
+        },
+        "two": {
+            "title": "Irish immigration",
+            "description": "Mainly to agriculture and animal husbandry, supplemented by tourism, with national characteristics of music and dance.",
+            "detail_btn": "see details"
+        },
+        "three": {
+            "title": "Portuguese immigration",
+            "description": "Rich historical atmosphere, rich food culture.",
+            "detail_btn": "see details"
+        },
+        "four": {
+            "title": "Cyprus immigration",
+            "description": "Mediterranean Island, Commonwealth Education, Tourist Resort, Vacation Paradise.",
+            "detail_btn": "see details"
+        }
+    },
+    "main": {
+        "service": {
+            "title": "Service",
+            "description": "Mainly to provide immigrants in three countries related services",
+            "serv_1": {
+                "title": "Ireland",
+                "description": "West of the Atlantic Ocean, east of the Irish Sea, and the United Kingdom across the sea, is the gateway to Europe to Europe, the Irish natural environment to maintain a very good, known as \"Emerald Island\" said the country tree-lined, Grass all over, so there are \"Green Island\" and \"Emerald\" said.",
+                "detail_btn": "see details"
+            },
+            "serv_2": {
+                "title": "Portugal",
+                "description": "A republican country in southwestern Europe. The east is in the Iberian Peninsula of Spain, the western and southern parts of Portugal is the Atlantic coast, the terrain north high south low, mostly mountain and hills. Portugal is rich in mineral resources and has a long history.",
+                "detail_btn": "see details"
+            },
+            "serv_3": {
+                "title": "Cyprus",
+                "description": "Located in the northeastern Mediterranean, Chai Asia, Africa, Europe and three continents sea traffic hub, an area of 9,251 square kilometers, the third largest island in the Mediterranean. The most important and most popular art is music and dance. 320-340 days a year is sunny, sunny enough.",
+                "detail_btn": "see details"
+            }
+        },
+        "advantage": {
+            "title": "Advantage",
+            "description": "Professional, Efficient, Safe and Reliable",
+            "adv_1": {
+                "title": "Professional Team",
+                "desc_1": "International communication",
+                "desc_2": "Perfect process"
+            },
+            "adv_2": {
+                "title": "Efficient Service",
+                "desc_1": "Timeliness",
+                "desc_2": "24x7"
+            },
+            "adv_3": {
+                "title": "Private Order",
+                "desc_1": "One Stop",
+                "desc_2": "One to One",
+                "desc_3": "Housekeeping"
+            },
+            "adv_4": {
+                "title": "Safe and Reliable",
+                "desc_1": "Government program",
+                "desc_2": "Information security",
+                "desc_3": "Privacy protection"
+            }
+        },
+        "activity": {
+            "title": "Activity",
+            "description": "Keep pace with the times and actively carry out international exchanges",
+            "act_1": {
+                "desc": "Former Irish Prime Minister and EU ambassador to the United States"
+            },
+            "act_2": {
+                "desc": "Irish Financial Services Government Officer Eoin Murphy"
+            },
+            "act_3": {
+                "desc": "Dinner with diplomatic officer"
+            },
+            "act_4": {
+                "desc": "Attended by the Irish Consulate General in Hong Kong, met with the Irish Overseas Tourist Board"
+            }
+        },
+        "friend_link": {
+            "title": "Links"
+        }
     }
 }

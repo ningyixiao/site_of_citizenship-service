@@ -60,3 +60,29 @@ footer.page-footer {
 img.img-fluid{
     width: 100%;
 }
+/*设置成员照片的div大小随img元素大小变化*/
+div.view.photo-wrap{
+    height: auto;
+}
+/*设置成员联系方式的字体大小*/
+.contact span{
+    font-size: 1.1rem;
+}
+
+/*style for logo*/
+.logo{
+    position: absolute;
+    top: -0.4rem;
+    left: 0;
+    height:3.4rem;
+}
+@media screen and (max-width: 992px){
+    .logo{
+        height: 2rem;
+        top: -0.3rem;
+    }
+    /*style for button.navbar-toggler-right*/
+    button.navbar-toggler-right {
+        margin-top: -0.3rem;
+    }
+}

@@ -11,13 +11,10 @@
         "recommend": "外部推荐",
         "contact": "联系方式"
     },
-    "main": {
-        "contact_us": "联系我们"
-    },
     "footer": {
         "contact": "联系方式",
         "address": "香港中环荆威广场17楼",
-        "navigation":"站内导航",
+        "navigation": "站内导航",
         "about": "关于我们",
         "solutions": "解决方案",
         "ireland": "爱尔兰",
@@ -26,5 +23,54 @@
         "team": "团队简介",
         "recommend": "外部推荐",
         "contact": "联系方式"
+    },
+    "main": {
+        "contact_us": "联系我们",
+        "phone":"电话：",
+        "Beijing": {
+            "title": "北京",
+            "address": "Unit 601, 6/F, China World Office 1, No.1 Jian Guo Men Wai Avenue Chaoyang District, Beijing 100004, PRC",
+            "phone": "Phone:\t"
+        },
+        "Shanghai": {
+            "title": "上海",
+            "address": "Room 1802, Raffles City 268 Xizang Zhong Road, Shanghai, 200001, PRC",
+            "phone": "Phone:\t"
+        },
+        "Guangzhou": {
+            "title": "广州",
+            "address": "Room 2735 & 2736, 27/F, Teem Tower 208 Tianhe Road, Tianhe District, Guangzhou, 510620, PRC",
+            "phone": "Phone:\t"
+        },
+        "Suzhou": {
+            "title": "苏州",
+            "address": "Unit 802, Tishman Speyer The Summit South Tower, No.1 Suzhou Avenue West, Suzhou Industrial Park, Suzhou, 215021, PRC",
+            "phone": "Phone:\t"
+        },
+        "Chengdu": {
+            "title": "成都",
+            "address": "7th Floor, Tower 2, Raffles Plaza, 3rd South Renmin Road, Wuhou District, Chengdu, 610000, PRC",
+            "phone": "Phone:\t"
+        },
+        "HongKong": {
+            "title": "香港",
+            "address": "Level 19, Silver Fortune Plaza, 1 Wellington Street Central, Hong Kong",
+            "phone": "Phone:\t"
+        },
+        "Singapore": {
+            "title": "新加坡",
+            "address": "One George Street #10-01 Singapore 049145",
+            "phone": "Phone:\t"
+        },
+        "US_Columbus": {
+            "title": "美国(哥伦布)",
+            "address": "1555 Lennox Town Lane Columbus, Ohio 43212",
+            "phone": "Phone:\t"
+        },
+        "US_LA": {
+            "title": "美国(洛杉矶)",
+            "address": "1730 E. Holly Avenue El Segundo, CA 90245",
+            "phone": "Phone:\t"
+        }
     }
 }

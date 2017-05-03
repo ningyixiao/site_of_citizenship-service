@@ -1,27 +1,112 @@
 {
     "title": "DKGlobalVisa - Team",
-    "navbar":{
-        "home":"Home",
-        "about":"About us",
-        "solutions":"Solutions",
-        "ireland":"Ireland",
-        "portugal":"Portugal",
-        "cyprus":"Cyprus",
-        "team":"Team",
-        "recommend":"Recommend",
-        "contact":"Contact"
+    "navbar": {
+        "home": "Home",
+        "about": "About us",
+        "solutions": "Solutions",
+        "ireland": "Ireland",
+        "portugal": "Portugal",
+        "cyprus": "Cyprus",
+        "team": "Team",
+        "recommend": "Recommend",
+        "contact": "Contact"
     },
-    "footer":{
-        "contact":"Contact us",
-        "address":"17/F, Silver Fortune Plaza, No.1 Wellington Street, Central",
-        "navigation":"Navigation",
-        "about":"About us",
-        "solutions":"Solutions",
-        "ireland":"Ireland",
-        "portugal":"Portugal",
-        "cyprus":"Cyprus",
-        "team":"Team",
-        "recommend":"Recommend",
-        "contact":"Contact"
+    "footer": {
+        "contact": "Contact us",
+        "address": "17/F, Silver Fortune Plaza, No.1 Wellington Street, Central",
+        "navigation": "Navigation",
+        "about": "About us",
+        "solutions": "Solutions",
+        "ireland": "Ireland",
+        "portugal": "Portugal",
+        "cyprus": "Cyprus",
+        "team": "Team",
+        "recommend": "Recommend",
+        "contact": "Contact"
+    },
+    "main": {
+        "team": {
+            "title": "Team Members",
+            "member_1": {
+                "name": "Derek Kenny",
+                "desc": "An Irish entrepreneur, cgp Hong Kong founder, engaged in talent, education, investment consulting for 10 years, is influential in the Irish business community and has strong relationships at government level in many European countries, now settled in Hong Kong.",
+                "qq": {
+                    "title": "QQ:\t",
+                    "text": ""
+                },
+                "phone": {
+                    "title": "Phone:\t",
+                    "text": ""
+                },
+                "wx": {
+                    "title": "Wechat:\t",
+                    "text": "dk5009"
+                },
+                "email": {
+                    "title": "Email:\t",
+                    "text": ""
+                }
+            },
+            "member_2": {
+                "name": "Abby Jiang",
+                "desc": "Canadian study background, 5 years of overseas investment consulting experience, member of AIA million round table, more than 100 successful cases of overseas investment, won the corporate star, quality customer service awards many times.",
+                "qq": {
+                    "title": "QQ:\t",
+                    "text": ""
+                },
+                "phone": {
+                    "title": "Phone:\t",
+                    "text": "15626963773"
+                },
+                "wx": {
+                    "title": "Wechat:\t",
+                    "text": "85297096862"
+                },
+                "email": {
+                    "title": "Email:\t",
+                    "text": ""
+                }
+            },
+            "member_3": {
+                "name": "Guo Genan",
+                "desc": "No information.",
+                "qq": {
+                    "title": "QQ：",
+                    "text": ""
+                },
+                "phone": {
+                    "title": "Phone:\t",
+                    "text": "13879288202"
+                },
+                "wx": {
+                    "title": "Wechat:\t",
+                    "text": ""
+                },
+                "email": {
+                    "title": "Email:\t",
+                    "text": "guogenan@sateri.com.cn"
+                }
+            },
+            "member_4": {
+                "name": "Cheng Hongbing",
+                "desc": "Provide technical support for the website.",
+                "qq": {
+                    "title": "QQ：",
+                    "text": ""
+                },
+                "phone": {
+                    "title": "Phone:\t",
+                    "text": "13675110900"
+                },
+                "wx": {
+                    "title": "Wechat:\t",
+                    "text": ""
+                },
+                "email": {
+                    "title": "Email:\t",
+                    "text": ""
+                }
+            }
+        }
     }
 }

@@ -23,5 +23,22 @@
         "team":"Team",
         "recommend":"Recommend",
         "contact":"Contact"
+    },
+    "view":{
+        "title":"DKGlobalVisa",
+        "desc":"Focus on the interests of customers, focusing on overseas investment, immigration information.",
+        "btn_1":"know the team",
+        "btn_2":"Contact info"
+    },
+    "main":{
+        "about":{
+            "title":"About us",
+            "subtitle":"Basic Introduction",
+            "desc_1":"DKGlobalVisa is a branch of the global immigration business of the ctravel group. Company to pay tribute to the concept of global citizenship, focusing on Chinese enterprises and citizens of overseas investment and immigration advisory services.",
+            "desc_2":"We are committed to providing customized, high quality, efficient and safe one-stop solutions to help our customers achieve their short- and long-term investment objectives."
+        },
+        "friend_link":{
+            "title":"Links"
+        }
     }
 }

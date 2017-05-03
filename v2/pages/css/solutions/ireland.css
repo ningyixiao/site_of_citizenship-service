@@ -70,3 +70,105 @@ footer.page-footer {
         font-size: 1.3rem;
     }
 }
+
+
+/*箭头向下指示的动画*/
+
+@-webkit-keyframes arrow-down-anim {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(-30%);
+        transform: translateY(-30%)
+    }
+    20% {
+        opacity: 1;
+        -webkit-transform: translateY(0);
+        transform: translateY(0)
+    }
+    60% {
+        opacity: 1;
+        -webkit-transform: translateY(0);
+        transform: translateY(0)
+    }
+    80% {
+        opacity: 0;
+        -webkit-transform: translateY(30%);
+        transform: translateY(30%)
+    }
+    100% {
+        opacity: 0;
+        -webkit-transform: translateY(30%);
+        transform: translateY(30%)
+    }
+}
+
+@keyframes arrow-down-anim {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(-30%);
+        transform: translateY(-30%)
+    }
+    20% {
+        opacity: 1;
+        -webkit-transform: translateY(0);
+        transform: translateY(0)
+    }
+    60% {
+        opacity: 1;
+        -webkit-transform: translateY(0);
+        transform: translateY(0)
+    }
+    80% {
+        opacity: 0;
+        -webkit-transform: translateY(30%);
+        transform: translateY(30%)
+    }
+    100% {
+        opacity: 0;
+        -webkit-transform: translateY(30%);
+        transform: translateY(30%)
+    }
+}
+
+.go_down_arrow {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    margin-bottom: 32px;
+    margin-left: -29px;
+    height: 37px;
+    width: 58px;
+    background: url(http://dkglobalvisa.b0.upaiyun.com/img/images/icons.png) no-repeat 0 -693px;
+    background-size: 166px 1121px;
+    -webkit-animation: arrow-down-anim 2s infinite both;
+    animation: arrow-down-anim 2s infinite both;
+}
+
+/*style for logo*/
+.logo {
+    position: absolute;
+    top: -0.25rem;
+    left: 0;
+    height: 3rem;
+}
+@media screen and (max-width: 992px){
+    .logo{
+        height: 2rem;
+        top: -0.3rem;
+    }
+    /*style for button.navbar-toggler-right*/
+    button.navbar-toggler-right {
+        margin-top: -0.3rem;
+    }
+}
+/*设置tabs的排列规则*/
+@media screen and (max-width: 768px){
+    .tabs_style{
+        display: block;
+    }
+    .tabs_style li.nav-item{
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+    }
+}

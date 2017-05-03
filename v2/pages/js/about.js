@@ -6,7 +6,7 @@ function setCookie(name, value) {
     var Days = 30;
     var exp = new Date();
     exp.setTime(exp.getTime() + Days * 24 * 60 * 60 * 1000);
-    document.cookie = name + "=" + escape(value) + ";expires=" + exp.toGMTString();
+    document.cookie = name + "=" + escape(value) + ";expires=" + exp.toGMTString()+";path=/";
 }
 // get cookie
 function getCookie(name) {
@@ -68,6 +68,7 @@ $(function() {
         } else {
             // 设置本地存储的语言类型变量为choose_lang的值
             setCookie("lang",choose_lang);
+            lang = choose_lang;
             i18nMethod(choose_lang);
         }
     });
