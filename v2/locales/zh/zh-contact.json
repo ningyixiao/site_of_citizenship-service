@@ -29,32 +29,32 @@
         "phone":"电话：",
         "Beijing": {
             "title": "北京",
-            "address": "Unit 601, 6/F, China World Office 1, No.1 Jian Guo Men Wai Avenue Chaoyang District, Beijing 100004, PRC",
+            "address": "中国北京市朝阳区建国门外大街，中国世界办事处1号，6楼601单元，邮编：100004",
             "phone": "Phone:\t"
         },
         "Shanghai": {
             "title": "上海",
-            "address": "Room 1802, Raffles City 268 Xizang Zhong Road, Shanghai, 200001, PRC",
+            "address": "中国上海市西藏中路268号莱佛士城1802室，邮编：200001",
             "phone": "Phone:\t"
         },
         "Guangzhou": {
             "title": "广州",
-            "address": "Room 2735 & 2736, 27/F, Teem Tower 208 Tianhe Road, Tianhe District, Guangzhou, 510620, PRC",
+            "address": "广州市天河区天河路208号泰和大厦27楼2735室和2736室，邮编：510620",
             "phone": "Phone:\t"
         },
         "Suzhou": {
             "title": "苏州",
-            "address": "Unit 802, Tishman Speyer The Summit South Tower, No.1 Suzhou Avenue West, Suzhou Industrial Park, Suzhou, 215021, PRC",
+            "address": "苏州市苏州工业园区苏州大道西1号铁狮门南楼802单元，邮编：215021",
             "phone": "Phone:\t"
         },
         "Chengdu": {
             "title": "成都",
-            "address": "7th Floor, Tower 2, Raffles Plaza, 3rd South Renmin Road, Wuhou District, Chengdu, 610000, PRC",
+            "address": "成都市武侯区人民南路3号莱佛士广场2号楼7层，邮编：610000",
             "phone": "Phone:\t"
         },
         "HongKong": {
             "title": "香港",
-            "address": "Level 19, Silver Fortune Plaza, 1 Wellington Street Central, Hong Kong",
+            "address": "香港中环惠灵顿街1号银富财富广场19楼",
             "phone": "Phone:\t"
         },
         "Singapore": {
