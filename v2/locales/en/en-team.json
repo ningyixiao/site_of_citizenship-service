@@ -86,26 +86,6 @@
                     "title": "Email:\t",
                     "text": ""
                 }
-            },
-            "member_4": {
-                "name": "Cheng Hongbing",
-                "desc": "Provide technical support for the website.",
-                "qq": {
-                    "title": "QQ：",
-                    "text": ""
-                },
-                "phone": {
-                    "title": "Phone:\t",
-                    "text": "13675110900"
-                },
-                "wx": {
-                    "title": "Wechat:\t",
-                    "text": ""
-                },
-                "email": {
-                    "title": "Email:\t",
-                    "text": ""
-                }
             }
         }
     }

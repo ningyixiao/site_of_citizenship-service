@@ -27,22 +27,22 @@
     "banner": {
         "one": {
             "title": "爱尔兰移民",
-            "description": "西欧国家，与英国隔海相望，历史悠久，风景迷人。",
+            "description": "西欧国家，与英国隔海相望，历史悠久，风景迷人",
             "detail_btn": "查看详情"
         },
         "two": {
             "title": "爱尔兰移民",
-            "description": "以农牧业为主，旅游业为辅，具有民族特色的音乐舞蹈。",
+            "description": "以农牧业为主，旅游业为辅，具有民族特色的音乐舞蹈",
             "detail_btn": "查看详情"
         },
         "three": {
             "title": "葡萄牙移民",
-            "description": "历史气息浓郁，饮食文化丰富。",
+            "description": "历史气息浓郁，饮食文化丰富",
             "detail_btn": "查看详情"
         },
         "four": {
             "title": "塞浦路斯移民",
-            "description": "地中海岛国，英联邦教育，旅游胜地，度假天堂。",
+            "description": "地中海岛国，英联邦教育，旅游胜地，度假天堂",
             "detail_btn": "查看详情"
         }
     },

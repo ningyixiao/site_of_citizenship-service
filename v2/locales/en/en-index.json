@@ -27,22 +27,22 @@
     "banner": {
         "one": {
             "title": "Irish immigration",
-            "description": "Western European countries, and the British across the sea, has a long history, charming scenery.",
+            "description": "Western European countries, and the British across the sea, has a long history, charming scenery",
             "detail_btn": "see details"
         },
         "two": {
             "title": "Irish immigration",
-            "description": "Mainly to agriculture and animal husbandry, supplemented by tourism, with national characteristics of music and dance.",
+            "description": "Mainly to agriculture and animal husbandry, supplemented by tourism, with national characteristics of music and dance",
             "detail_btn": "see details"
         },
         "three": {
             "title": "Portuguese immigration",
-            "description": "Rich historical atmosphere, rich food culture.",
+            "description": "Rich historical atmosphere, rich food culture",
             "detail_btn": "see details"
         },
         "four": {
             "title": "Cyprus immigration",
-            "description": "Mediterranean Island, Commonwealth Education, Tourist Resort, Vacation Paradise.",
+            "description": "Mediterranean Island, Commonwealth Education, Tourist Resort, Vacation Paradise",
             "detail_btn": "see details"
         }
     },
