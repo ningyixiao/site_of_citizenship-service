@@ -1,3 +1,139 @@
 {
-    "title": "Irish immigrants"
+    "title": "DKGlobalVisa - Cyprus",
+    "navbar": {
+        "home": "Home",
+        "about": "About us",
+        "solutions": "Solutions",
+        "ireland": "Ireland",
+        "portugal": "Portugal",
+        "cyprus": "Cyprus",
+        "team": "Team",
+        "recommend": "Recommend",
+        "contact": "Contact"
+    },
+    "footer": {
+        "contact": "Contact us",
+        "address": "17/F, Silver Fortune Plaza, No.1 Wellington Street, Central",
+        "navigation": "Navigation",
+        "about": "About us",
+        "solutions": "Solutions",
+        "ireland": "Ireland",
+        "portugal": "Portugal",
+        "cyprus": "Cyprus",
+        "team": "Team",
+        "recommend": "Recommend",
+        "contact": "Contact"
+    },
+    "view": {
+        "title": "Cyprus",
+        "desc": "Mediterranean Island, Commonwealth Education, Tourist Resort, Vacation Paradise."
+    },
+    "main": {
+        "tabs": {
+            "tab1": "Country Introduction",
+            "tab2": "Project Description",
+            "tab3": "Apply-Conditions",
+            "tab4": "Application Process",
+            "tab5": "Others"
+        },
+        "panels": {
+            "panel1": {
+                "p1": {
+                    "s": "Overview:",
+                    "text": "Cyprus became one of the members of the European Union on 1 May 2004 and is currently a member of the Commonwealth. The country is a geographically Asian island country, and Nicosia is a very long history city and the capital of Cyprus. The main industrial sectors are metals, machinery, transportation, electricity, optics, chemicals, leather, wood, textiles and food. Financial, insurance, services and tourism are more developed. Is one of the most popular tourist destinations in the Mediterranean region. Focus on the development of tourism tourism characterized by holiday tourism, in recent years has become the main source of foreign exchange earnings and economic growth pillar industries. Cyprus or the Greek god \"Venus\" was born. Come here can also enjoy the same sunshine, sand, blue sky, blue sea."
+                },
+                "p2": {
+                    "s": "Full Name:",
+                    "text": "The Republic of Cyprus"
+                },
+                "p3": {
+                    "s": "Abbreviations:",
+                    "text": "Cyprus"
+                },
+                "p4": {
+                    "s": "Owned by:",
+                    "text": "Europe"
+                },
+                "p5": {
+                    "s": "Capital:",
+                    "text": "Nicosia"
+                },
+                "p6": {
+                    "s": "National Day:",
+                    "text": "October 1st"
+                },
+                "p7": {
+                    "s": "National Anthem:",
+                    "text": "Free Song"
+                },
+                "p8": {
+                    "s": "Language:",
+                    "text": "Greek, English, Turkish"
+                },
+                "p9": {
+                    "s": "Currency:",
+                    "text": "EUR"
+                },
+                "p10": {
+                    "s": "Political System:",
+                    "text": "Presidential system"
+                },
+                "p11": {
+                    "s": "Population:",
+                    "text": "1.18 million"
+                },
+                "p12": {
+                    "s": "Major Religions:",
+                    "text": "Orthodox, Islam"
+                },
+                "p13": {
+                    "s": "National Land Area:",
+                    "text": "9251 square kilometers"
+                },
+                "p14": {
+                    "s": "Coastline Length:",
+                    "text": "537 km"
+                },
+                "p15": {
+                    "s": "Average Temperature:",
+                    "text": "28－35℃"
+                },
+                "p16": {
+                    "s": "Attractions:",
+                    "text": "The ancient city of Amohorstos (Famagusta), Eros birthplace Paphos, Karpas Peninsula."
+                },
+                "p17": {
+                    "s": "Festival:",
+                    "text": "Independence Day - August 16th"
+                }
+            },
+            "panel2": {
+                "h1": "Project 1: Citizenship Program",
+                "p1": "In 2014, Cyprus launched the Planning Citizenship Act to make it possible for foreign investors to become citizenship in Cyprus (EU) and to obtain Cyprus passports through naturalization, and investment conditions are easier and more affordable than ever. This program allows the applicant's entire family, including children under the age of 28 to obtain the EU citizenship. Citizens of Cyprus can enjoy the right to live, work, study and travel freely on a large scale in the EU.",
+                "p2": "According to section 111A, section 19 (a) of 19 March 2014, the \"Cyprus Investor Amnesty Naturalization Program\" has been promulgated. And updated the policy in September 2016:",
+                "p3": "1. Investment: Investors are required to purchase a set of self-occupied properties of at least € 2 million in Cyprus. Exit mechanism: 3 years after the real estate holders, investors only need to retain at least one set of 500,000 euros worth of home ownership, and permanent holders.",
+                "p4": "2. Investment: Investors in Cyprus territory of at least 200 million euros of commercial real estate + home ownership portfolio (Note: self-occupied real estate value of not less than 500,000 euros).",
+                "h2": "Project 2: Permanent residence rights investment plan",
+                "p5": "In accordance with Section 111A of 19 March 2014, in paragraph (2), the \"Cyprus Investor Scheme\" has been promulgated."
+            },
+            "panel3": {
+                "h1": "Project 1: Citizenship Program",
+                "p1": "Citizens of any country other than the European Union and their spouses, parents and full-time children under the age of 28 are eligible for Cyprus citizenship if they meet the following requirements at the same time:",
+                "p2": "1. At least 18 years of age;",
+                "p3": "2. No criminal record;",
+                "p4": "3. Business investment of not less than € 2 million in Cyprus;",
+                "p5": "4. Purchase of self-occupied property of not less than 500,000 euros and permanent possession.",
+                "h2": "Project 2: Permanent residence rights investment plan",
+                "p6": "Conditions for obtaining a residence permit are following:",
+                "p7": "1. Applicants must be at least 18 years of age and are not EU citizens;",
+                "p8": "2. The applicant is required to purchase real estate with a value of € 300,000 and permanent possession;",
+                "p9": "3. 3 million euros in the Bank of Cyprus 3 years deposit; issued 30,000 euros in proof of income (each additional one on the basis of an increase of 5000 Europe);",
+                "p10": "4. Applicants are required to land in Cyprus once every two years."
+            },
+            "panel4": {},
+            "panel5": {
+                "p1": "No information."
+            }
+        }
+    }
 }

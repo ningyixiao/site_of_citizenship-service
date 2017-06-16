@@ -1,38 +1,31 @@
-var lang = "zh";
-var loadPath_zh = "/locales/zh/zh-index.json";
-var loadPath_en = "/locales/en/en-index.json";
+// set cookie
+function setCookie(name, value) {
+    var Days = 30;
+    var exp = new Date();
+    exp.setTime(exp.getTime() + Days * 24 * 60 * 60 * 1000);
+    document.cookie = name + "=" + escape(value) + ";expires=" + exp.toGMTString()+";path=/";
+}
+// get cookie
+function getCookie(name) {
+    var arr, reg = new RegExp("(^| )" + name + "=([^;]*)(;|$)");
+    if (arr = document.cookie.match(reg))
+        return unescape(arr[2]);
+    else
+        return null;
+}
+
 $(function() {
+    // 监听用户点击事件
     $("#choose_lang a").click(function(e) {
         e.preventDefault();
         var choose_lang = $(e.target).attr("href");
         if (lang == choose_lang) {
             return;
         } else {
-            var load_path = "";
-            switch (choose_lang) {
-                case "en":
-                    load_path = loadPath_en;
-                    lang = "en";
-                    break;
-                case "zh":
-                    load_path = loadPath_zh;
-                    lang = "zh";
-                    break;
-                default:
-                    load_path = loadPath_zh;
-                    lang = "zh";
-            }
-            // console.log(load_path)
-            i18next.use(i18nextXHRBackend).init({
-                backend: {
-                    loadPath: load_path
-                }
-            }, function(err, t) {
-                jqueryI18next.init(i18next, $);
-                // start localizing, details:
-                // https://github.com/i18next/jquery-i18next#usage-of-selector-function
-                $('title').localize();
-            });
+            // 设置本地存储的语言类型变量为choose_lang的值
+            setCookie("lang",choose_lang);
+            lang = choose_lang;
+
         }
     });
 });

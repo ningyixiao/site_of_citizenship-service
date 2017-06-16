@@ -1,20 +1,76 @@
 {
-    "title": "Irish immigrants",
-    "navbar":{
-        "about":"About us",
-        "solutions":"Solutions",
-        "ireland":"Ireland",
-        "portugal":"Portugal",
-        "cyprus":"Cyprus",
-        "team":"Team",
-        "recommend":"Recommend",
-        "contact":"Contact"
+    "title": "DKGlobalVisa - Contact",
+    "navbar": {
+        "home": "Home",
+        "about": "About us",
+        "solutions": "Solutions",
+        "ireland": "Ireland",
+        "portugal": "Portugal",
+        "cyprus": "Cyprus",
+        "team": "Team",
+        "recommend": "Recommend",
+        "contact": "Contact"
     },
-    "main":{
-        "contact_us":"Contact us"
+    "footer": {
+        "contact": "Contact us",
+        "address": "17/F, Silver Fortune Plaza, No.1 Wellington Street, Central",
+        "navigation": "Navigation",
+        "about": "About us",
+        "solutions": "Solutions",
+        "ireland": "Ireland",
+        "portugal": "Portugal",
+        "cyprus": "Cyprus",
+        "team": "Team",
+        "recommend": "Recommend",
+        "contact": "Contact"
     },
-    "footer":{
-        "contact":"Contact us",
-        "address":"17/F, Silver Fortune Plaza, No.1 Wellington Street, Central"
+    "main": {
+        "contact_us": "Contact us",
+        "phone":"Phone:\t",
+        "Beijing": {
+            "title": "Beijing",
+            "address": "Unit 601, 6/F, China World Office 1, No.1 Jian Guo Men Wai Avenue Chaoyang District, Beijing 100004, PRC",
+            "phone": "Phone:\t"
+        },
+        "Shanghai": {
+            "title": "Shanghai",
+            "address": "Room 1802, Raffles City 268 Xizang Zhong Road, Shanghai, 200001, PRC",
+            "phone": "Phone:\t"
+        },
+        "Guangzhou": {
+            "title": "Guangzhou",
+            "address": "Room 2735 & 2736, 27/F, Teem Tower 208 Tianhe Road, Tianhe District, Guangzhou, 510620, PRC",
+            "phone": "Phone:\t"
+        },
+        "Suzhou": {
+            "title": "Suzhou",
+            "address": "Unit 802, Tishman Speyer The Summit South Tower, No.1 Suzhou Avenue West, Suzhou Industrial Park, Suzhou, 215021, PRC",
+            "phone": "Phone:\t"
+        },
+        "Chengdu": {
+            "title": "Chengdu",
+            "address": "7th Floor, Tower 2, Raffles Plaza, 3rd South Renmin Road, Wuhou District, Chengdu, 610000, PRC",
+            "phone": "Phone:\t"
+        },
+        "HongKong": {
+            "title": "Hong Kong",
+            "address": "Level 19, Silver Fortune Plaza, 1 Wellington Street Central, Hong Kong",
+            "phone": "Phone:\t"
+        },
+        "Singapore": {
+            "title": "Singapore",
+            "address": "One George Street #10-01 Singapore 049145",
+            "phone": "Phone:\t"
+        },
+        "US_Columbus": {
+            "title": "United States (Columbus)",
+            "address": "1555 Lennox Town Lane Columbus, Ohio 43212",
+            "phone": "Phone:\t"
+        },
+        "US_LA": {
+            "title": "United States (LA)",
+            "address": "1730 E. Holly Avenue El Segundo, CA 90245",
+            "phone": "Phone:\t"
+        }
     }
 }
